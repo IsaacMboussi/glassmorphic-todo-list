@@ -1,0 +1,13 @@
+{
+  "name": "glassmorphic-todo-list",
+  "version": "1.0.0",
+  "description": "A beautiful todo list application with glassmorphism design and SQLite database",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^25.0.0",
+    "sqlite3": "^5.1.7"
+  }
+} 
